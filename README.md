@@ -1,5 +1,5 @@
 ## Hi 👋
-Sou desenvolvedor junir , atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
+Sou desenvolvedor junir, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e Gatsby
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end usando frameworks JS
