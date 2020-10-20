@@ -1,4 +1,4 @@
-## Hi 👋
+## Olá 👋
 Sou desenvolvedor junir, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e Gatsby
