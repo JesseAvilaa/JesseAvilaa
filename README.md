@@ -6,6 +6,4 @@ Sou desenvolvedor, atualmente procurando expandir meus conhecimentos em desenvol
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, estilos de lutas, sou competidor de MuayThai nas horas vagas.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesseavilaa" alt="jesseavilaa" /> </p>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/JesseAvilaa](https://github.com/JesseAvilaa)
-
 - 💬 Contatos **Discord: Jessé Ávila#1850**
