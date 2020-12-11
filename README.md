@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Sou Developer Developer Web, e atuo na área desde 2019.
+Olá, me chamo Jessé Ávila, sou ex-aluno da IFSUL, atualmente trabalho como freelancer, mas estou em busca de alguma empresa para trabalhar. Todos os dias estou estudando um pouco mais sobre JavaScript, sou um grande entusiasta da tecnologia, e atuo na área desde 2019.
 Tenho conhecimentos em Front-end e Back-end 💜
 
 ## Tecnologias🖥️
@@ -17,11 +17,6 @@ Tenho conhecimentos em Front-end e Back-end 💜
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
-
-* ### Informações:
-
-
-    * 🙋‍ Olá, me chamo Jessé Ávila, sou ex-aluno da IFSUL, atualmente trabalho como freelancer, mas estou em busca de alguma empresa para trabalhar. Todos os dias estou estudando um pouco mais sobre JavaScript, sou um grande entusiasta da tecnologia.
 
 <center>
 <table>
