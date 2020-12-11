@@ -1,5 +1,5 @@
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+--
 Sou Developer Developer Web, e atuo na área desde 2019.
 Tenho conhecimentos em Front-end e Back-end 💜
 
