@@ -1,13 +1,3 @@
-<img src="./wallpaper.png">
-<center>
-<table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JesseAvilaa&theme=buefy"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseAvilaa&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>
-</center>
-
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
 Sou Developer Developer Web, e atuo na área desde 2019.
@@ -33,5 +23,13 @@ Tenho conhecimentos em Front-end e Back-end 💜
 
     * 🙋‍ Olá, me chamo Jessé Ávila, sou ex-aluno da IFSUL, atualmente trabalho como freelancer, mas estou em busca de alguma empresa para trabalhar. Todos os dias estou estudando um pouco mais sobre JavaScript, sou um grande entusiasta da tecnologia.
 
+<center>
+<table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JesseAvilaa&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseAvilaa&hide=html&layout=compact&theme=buefy" /></td>
+    </tr>   
+</table>
+</center>
 
 ![](https://komarev.com/ghpvc/?username=JesseAvilaa&color=blue&style=flat)
