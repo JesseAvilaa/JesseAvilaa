@@ -19,13 +19,5 @@ Tenho conhecimentos em Front-end e Back-end 💜
     <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JesseAvilaa&theme=buefy"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseAvilaa&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>
-</center>
 
 ![](https://komarev.com/ghpvc/?username=JesseAvilaa&color=blue&style=flat)
