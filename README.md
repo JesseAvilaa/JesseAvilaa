@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o Jessé Ávila.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JesseAvilaa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a full stack developer and web designer and passionate about javascript
+- 🔥 Sou um desenvolvedor full stack e web designer apaixonado por javascript
 
 - 🔭 Atualmente estou trabalhando em [CoffeLearn](https://github.com/offelearn)
 
