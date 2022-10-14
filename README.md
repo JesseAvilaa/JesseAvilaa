@@ -1,17 +1,17 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o Jessé Ávila.</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm Jessé Ávila</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JesseAvilaa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sou um desenvolvedor full stack e web designer apaixonado por javascript
+- 🔥 I'm an enthusiast of web and mobile programming.
 
-- 🔭 Atualmente estou trabalhando em [Nd](https://github.com/JesseAvilaa)
+- 🔭 I am currently working on [Nd](https://github.com/JesseAvilaa)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [jesseavilaa.tk](https://jesseavilaa.tk)
+- 👨‍💻 All my projects are available at [jesseavilaa.tk](https://jesseavilaa.tk)
 
-- ▶️ Eu regularmente posto vídeos em [youtube.com/hadden](https://youtube.com/CrgXArzFfSCSkbTptUa5b8A)
+- ▶️ I regularly post videos on [youtube.com/hadden](https://youtube.com/CrgXArzFfSCSkbTptUa5b8A)
 
-- 💬 Tenho conhecimentos **JavaScript, HTML, CSS, React, Next, Node.JS, AdonisJS 5, NestJS, PostgreSQL, MongoDB, MySQL**
+- 💬 I have knowledge **JavaScript, HTML, CSS, React, Next, Node.JS, AdonisJS 5, NestJS, PostgreSQL, MongoDB, MySQL**
 
-- ⚡  sou ex-aluno da IFSUL.
+- ⚡  I am a former student of IFSUL.
 
 <br><br>
 
