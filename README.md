@@ -4,7 +4,7 @@
 
 - 🔥 Sou um desenvolvedor full stack e web designer apaixonado por javascript
 
-- 🔭 Atualmente estou trabalhando em [CoffeLearn](https://github.com/Coffelearn)
+- 🔭 Atualmente estou trabalhando em [Nd](https://github.com/JesseAvilaa)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [jesseavilaa.tk](https://jesseavilaa.tk)
 
